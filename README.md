@@ -1,5 +1,5 @@
 # What is this project?
-This is the backend part of a task assignemnt to build a search system for an autocomplete input on the frontend. Since the task was indifferent of what kind of data it was supposed to handle I just created my own, which is a list of subjects. Due to time issues I've build only two endpoints, one for create and another for search.
+This is the backend part of a task assignemnt to build a search system for an autocomplete input on the [frontend](https://github.com/felipera87/simple_search_ui). Since the task was indifferent of what kind of data it was supposed to handle I just created my own, which is a list of subjects. Due to time issues I've build only two endpoints, one for create and another for search.
 
 # How to start this application
 
